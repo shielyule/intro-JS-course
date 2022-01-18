@@ -1,2 +1,2 @@
 # intro-JS-course
-old JS course - pre JS6
+old JS course - pre ES6
